@@ -1,0 +1,15 @@
+print("Fun Adding App for toddlers")
+print("Lets add two numbers together")
+
+# Ask for the first number
+first_number = int(input("Enter the first number: "))
+
+
+# Ask for the second number
+second_number = int(input("Enter the second number: "))
+
+# calculate the sum
+result = first_number + second_number
+
+#Display the result
+print(f"The sum is: {result}")
